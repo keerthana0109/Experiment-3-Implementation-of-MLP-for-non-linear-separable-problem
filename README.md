@@ -96,5 +96,8 @@ test=np.array([[1],[1]])
 predict(w1,w2,test)```
 
  **OUTPUT** 
+![image](https://user-images.githubusercontent.com/114254543/197316441-379228e1-e0b4-4cbf-9675-ba385b4f0627.png)
+![image](https://user-images.githubusercontent.com/114254543/197316503-b9005f13-1242-40a6-92a7-76899568a68f.png)
+
 
 ** RESULT**
