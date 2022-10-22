@@ -103,6 +103,6 @@ predict(w1,w2,test)
 ![image](https://user-images.githubusercontent.com/114254543/197316901-54e171c2-4aff-421f-a6ce-34822b8161e2.png)
 
 
-** RESULT**
+**RESULT**
 
 Thus  a MLP is implemented for non linear seperable problem solving using python.
