@@ -100,6 +100,7 @@ predict(w1,w2,test)
  
  ![download](https://user-images.githubusercontent.com/114254543/197316768-7c465e1a-ddf2-4074-baa0-ff3362d2a537.png)
 
+![image](https://user-images.githubusercontent.com/114254543/197316901-54e171c2-4aff-421f-a6ce-34822b8161e2.png)
 
 
 ** RESULT**
